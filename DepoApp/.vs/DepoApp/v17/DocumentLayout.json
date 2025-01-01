@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Console_Final_Depo_App\\DepoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB414C35-D4EE-40BE-BA00-B381EFBD259F}|DepoApp.csproj|c:\\users\\hp\\desktop\\console_final_depo_app\\depoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB414C35-D4EE-40BE-BA00-B381EFBD259F}|DepoApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB414C35-D4EE-40BE-BA00-B381EFBD259F}|DepoApp.csproj|c:\\users\\hp\\desktop\\console_final_depo_app\\depoapp\\classes\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB414C35-D4EE-40BE-BA00-B381EFBD259F}|DepoApp.csproj|solutionrelative:classes\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB414C35-D4EE-40BE-BA00-B381EFBD259F}|DepoApp.csproj|c:\\users\\hp\\desktop\\console_final_depo_app\\depoapp\\classes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB414C35-D4EE-40BE-BA00-B381EFBD259F}|DepoApp.csproj|solutionrelative:classes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB414C35-D4EE-40BE-BA00-B381EFBD259F}|DepoApp.csproj|c:\\users\\hp\\desktop\\console_final_depo_app\\depoapp\\classes\\depo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB414C35-D4EE-40BE-BA00-B381EFBD259F}|DepoApp.csproj|solutionrelative:classes\\depo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB414C35-D4EE-40BE-BA00-B381EFBD259F}|DepoApp.csproj|c:\\users\\hp\\desktop\\console_final_depo_app\\depoapp\\classes\\rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB414C35-D4EE-40BE-BA00-B381EFBD259F}|DepoApp.csproj|solutionrelative:classes\\rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB414C35-D4EE-40BE-BA00-B381EFBD259F}|DepoApp.csproj|c:\\users\\hp\\desktop\\console_final_depo_app\\depoapp\\exceptions\\notenoughfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB414C35-D4EE-40BE-BA00-B381EFBD259F}|DepoApp.csproj|solutionrelative:exceptions\\notenoughfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB414C35-D4EE-40BE-BA00-B381EFBD259F}|DepoApp.csproj|c:\\users\\hp\\desktop\\console_final_depo_app\\depoapp\\classes\\basestaticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB414C35-D4EE-40BE-BA00-B381EFBD259F}|DepoApp.csproj|solutionrelative:classes\\basestaticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Console_Final_Depo_App\\DepoApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Console_Final_Depo_App\\DepoApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:56:01.089Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotEnoughField.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Console_Final_Depo_App\\DepoApp\\Exceptions\\NotEnoughField.cs",
+              "RelativeDocumentMoniker": "Exceptions\\NotEnoughField.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Console_Final_Depo_App\\DepoApp\\Exceptions\\NotEnoughField.cs",
+              "RelativeToolTip": "Exceptions\\NotEnoughField.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:01:07.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rent.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Console_Final_Depo_App\\DepoApp\\Classes\\Rent.cs",
+              "RelativeDocumentMoniker": "Classes\\Rent.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Console_Final_Depo_App\\DepoApp\\Classes\\Rent.cs",
+              "RelativeToolTip": "Classes\\Rent.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:00:31.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Depo.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Console_Final_Depo_App\\DepoApp\\Classes\\Depo.cs",
+              "RelativeDocumentMoniker": "Classes\\Depo.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Console_Final_Depo_App\\DepoApp\\Classes\\Depo.cs",
+              "RelativeToolTip": "Classes\\Depo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:00:20.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Console_Final_Depo_App\\DepoApp\\Classes\\Customer.cs",
+              "RelativeDocumentMoniker": "Classes\\Customer.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Console_Final_Depo_App\\DepoApp\\Classes\\Customer.cs",
+              "RelativeToolTip": "Classes\\Customer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:00:10.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Console_Final_Depo_App\\DepoApp\\Classes\\Company.cs",
+              "RelativeDocumentMoniker": "Classes\\Company.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Console_Final_Depo_App\\DepoApp\\Classes\\Company.cs",
+              "RelativeToolTip": "Classes\\Company.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAswEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:59:53.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseStaticClass.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Console_Final_Depo_App\\DepoApp\\Classes\\BaseStaticClass.cs",
+              "RelativeDocumentMoniker": "Classes\\BaseStaticClass.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Console_Final_Depo_App\\DepoApp\\Classes\\BaseStaticClass.cs",
+              "RelativeToolTip": "Classes\\BaseStaticClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:59:42.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

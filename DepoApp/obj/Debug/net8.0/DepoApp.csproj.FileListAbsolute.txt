@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Console_Final_Depo_App\DepoApp\obj\Debug\net8.0\DepoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Console_Final_Depo_App\DepoApp\obj\Debug\net8.0\DepoApp.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Console_Final_Depo_App\DepoApp\obj\Debug\net8.0\DepoApp.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Console_Final_Depo_App\DepoApp\obj\Debug\net8.0\DepoApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Console_Final_Depo_App\DepoApp\obj\Debug\net8.0\DepoApp.sourcelink.json
+C:\Users\Hp\Desktop\Console_Final_Depo_App\DepoApp\bin\Debug\net8.0\DepoApp.exe
+C:\Users\Hp\Desktop\Console_Final_Depo_App\DepoApp\bin\Debug\net8.0\DepoApp.deps.json
+C:\Users\Hp\Desktop\Console_Final_Depo_App\DepoApp\bin\Debug\net8.0\DepoApp.runtimeconfig.json
+C:\Users\Hp\Desktop\Console_Final_Depo_App\DepoApp\bin\Debug\net8.0\DepoApp.dll
+C:\Users\Hp\Desktop\Console_Final_Depo_App\DepoApp\bin\Debug\net8.0\DepoApp.pdb
+C:\Users\Hp\Desktop\Console_Final_Depo_App\DepoApp\obj\Debug\net8.0\DepoApp.dll
+C:\Users\Hp\Desktop\Console_Final_Depo_App\DepoApp\obj\Debug\net8.0\refint\DepoApp.dll
+C:\Users\Hp\Desktop\Console_Final_Depo_App\DepoApp\obj\Debug\net8.0\DepoApp.pdb
+C:\Users\Hp\Desktop\Console_Final_Depo_App\DepoApp\obj\Debug\net8.0\DepoApp.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Console_Final_Depo_App\DepoApp\obj\Debug\net8.0\ref\DepoApp.dll
